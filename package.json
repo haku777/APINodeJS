@@ -10,13 +10,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/js/index.js"
+    "start": "nodemon src/js/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "nodemon": "^2.0.18"
+    "nodemon": "^2.0.20"
   }
 }
